@@ -10,10 +10,10 @@
 <hr>
 <h3 align="center">Me encontre na Rede <b>@</b></h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/diogo-santanna/" target="_blank"><img src="linkedin.png" width="50px"/></a>
-  <a href="https://www.instagram.com/diiiisantanna/" target="_blank"><img src="instagram.png" width="50px"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5521991488742" target="_blank"><img src="whatsapp.png" width="50px"/></a>
-  <a href="diogo.santanna@outlook.com.br" target="_blank"><img src="marketing-de-email.png" width="50px"/></a>
+  <a href="https://www.linkedin.com/in/diogo-santanna/" target="_blank"><img src="linkedin.png" width="40px"/></a>
+  <a href="https://www.instagram.com/diiiisantanna/" target="_blank"><img src="instagram.png" width="40px"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5521991488742" target="_blank"><img src="whatsapp.png" width="40px"/></a>
+  <a href="diogo.santanna@outlook.com.br" target="_blank"><img src="marketing-de-email.png" width="40px"/></a>
 </p>
 <p align="center">Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></p>
 <hr>
