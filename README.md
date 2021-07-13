@@ -4,7 +4,7 @@
 <p align="center">
   Me chamo <strong>Diogo Sant'Anna</strong>, tenho 29 anos e moro em Nova Iguaçu/RJ.
   <br>
-  Atualmente estou me capacitando como <i>desenvolvedor web</i> na  <a href="https://www.betrybe.com/"><img src="trybe_img.png" align="center" width="50px"/></a> e dando um start na c9arreira de dev.
+  Atualmente estou me capacitando como <i>desenvolvedor web</i> na  <a href="https://www.betrybe.com/"><img src="trybe_img.png" align="center" width="50px"/></a> e dando um start na carreira de dev.
 </p>
 </br>
 <hr>
