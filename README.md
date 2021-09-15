@@ -34,7 +34,9 @@
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
 </div>
 
-<img src="https://github.com/dihsantanna/dihsantanna/blob/output/github-contribution-grid-snake.svg">
+<div align="center">
+  <img height="100%" src="https://github.com/dihsantanna/dihsantanna/blob/output/github-contribution-grid-snake.svg">
+</div>
 
 <hr>
 
