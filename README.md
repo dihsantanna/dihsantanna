@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
 </div>
 
+<img src="https://github.com/dihsantanna/dihsantanna/blob/output/github-contribution-grid-snake.svg">
+
 <hr>
 
 <h3 align="center">Me encontre na Rede <b>@</b></h3>
