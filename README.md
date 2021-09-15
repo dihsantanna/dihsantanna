@@ -16,9 +16,9 @@
   <li>Gosto muito de longas conversas; :hand_over_mouth:</li>
 </ul>
 
-<div>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=dihsantanna&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihsantanna&layout=compact&langs_count=7&theme=chartreuse-dark" />
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dihsantanna&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihsantanna&layout=compact&langs_count=7&theme=chartreuse-dark" />
 </div>
 
 <h3>Tecnologias</h3>
