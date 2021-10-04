@@ -3,7 +3,9 @@
 <p>
   Me chamo <strong>Diogo Sant'Anna</strong>, tenho 29 anos e moro em Nova Iguaçu/RJ.
   <br>
-  Atualmente estou me capacitando como <i>desenvolvedor web full stack</i> na  <a href="https://www.betrybe.com/"><img src="trybe_img.png" align="center" width="50px"/></a> e dando um start na carreira de dev.
+  Atualmente estou me capacitando como <i>desenvolvedor web full stack</i> na  <a href="https://www.betrybe.com/"><img src="trybe_img.png" align="center" width="50px"/></a> e dando um start na minha carreira de dev.
+  <br>
+  `#vqv`
 </p>
 
 <h3>Quem sou Eu? :sunglasses:</h3>
@@ -14,7 +16,7 @@
   <li>:video_game: Apaixonado por games;</li>
   <li>:heart_eyes: Apaixonado por Animes;</li>
   <li>:hand_over_mouth: Gosto muito de longas conversas;</li>
-  <li>:metal: Gosto muito de música, meu estilo favorito é o Rock.</li>
+  <li>:metal: Gosto muito de música e meu estilo favorito é o Rock.</li>
 </ul>
 
 ##
