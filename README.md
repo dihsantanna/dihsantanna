@@ -1,7 +1,7 @@
 <h1 align="center">Hello Guys! :vulcan_salute:</h1>
 
 <p>
-  Me chamo <strong><i>Diogo Sant'Anna</i></strong>, tenho 29 anos e moro em Nova Iguaçu/RJ.
+  Me chamo <strong><i>Diogo Sant'Anna</i></strong>, tenho 30 anos e moro em Nova Iguaçu/RJ.
   <br>
   Atualmente estou me capacitando como <i>desenvolvedor web full stack</i> na  <a href="https://www.betrybe.com/"><img src="trybe_img.png" align="center" width="50px"/></a> e dando um start na minha carreira de <b>DEV</b>.  <i>#vqv</i>
 </p>
