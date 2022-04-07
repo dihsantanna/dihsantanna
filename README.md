@@ -9,7 +9,7 @@
 <h3>Quem sou Eu? :sunglasses:</h3>
 
 <ul>
-  <li>:v: Desenvolvedor web front-end recém formado na Trybe;</li>
+  <li>:v: Desenvolvedor web front-end;</li>
   <li>:monocle_face: Me capacitando em back-end;</li>
   <li>:video_game: Apaixonado por games;</li>
   <li>:heart_eyes: Apaixonado por Animes;</li>
@@ -32,7 +32,7 @@
 
 ##
 
-<h3>Minhas Stacks:</h3>
+<h3 align="center">Minhas Stacks:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
   <img src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
@@ -57,15 +57,18 @@
 
 ##
 
-<h3>Stacks que estou aprendendo:</h3>
-<div>
+<h3 align="center">Stacks que estou aprendendo:</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/docker-46C7FF.svg?style=for-the-badge&logo=docker&logoColor=white" alt="mongoDB"/>
 </div>
 
 ##
 
 <div align="center">
-  <img height="100%" src="https://github.com/dihsantanna/dihsantanna/blob/output/github-contribution-grid-snake.svg">
+  <img height="200px" src="https://media.giphy.com/media/olcUZkV0ns9vvTAcs8/giphy.gif">
+</div>
+<div align="center">
+  <img height="80px" src="https://media.giphy.com/media/fwz0kqK73CSTZA3srV/giphy.gif">
 </div>
 
 ##
