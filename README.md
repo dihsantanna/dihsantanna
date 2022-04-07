@@ -3,7 +3,7 @@
 <p>
   Me chamo <strong><i>Diogo Sant'Anna</i></strong>, tenho 30 anos e moro em Nova Iguaçu/RJ.
   <br>
-  Atualmente estou me capacitando como <i>desenvolvedor web full stack</i> na  <a href="https://www.betrybe.com/"><img src="trybe_img.png" align="center" width="50px"/></a> e dando um start na minha carreira de <b>DEV</b>.  <i>#vqv</i>
+  Em transição de carreira, atualmente estou me capacitando como <i>desenvolvedor web full stack</i> na  <a href="https://www.betrybe.com/"><img src="trybe_img.png" align="center" width="45px"/></a> e dando um start na minha carreira de <i>DEV</i>.  <i>#vqv</i>
 </p>
 
 <h3>Quem sou Eu? :sunglasses:</h3>
@@ -33,24 +33,33 @@
 ##
 
 <h3>Minhas Stacks:</h3>
-<div>
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
+  <img src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <br>
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
+  <img src="https://img.shields.io/badge/-chai-faf4e8?style=for-the-badge&logo=chai&logoColor=a40802" alt="chai"/>
+  <img src="https://img.shields.io/badge/-sinon-a40802?style=for-the-badge" alt="sinon"/>
+  <br>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react.js"/>
+  <img src="https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react.js"/>
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/%20-MySQL%20Workbench-informational?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL-Workbench"/>
+  <br>
+  <img src="https://img.shields.io/badge/node.js-56D156.svg?style=for-the-badge&logo=node.js&logoColor=black" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/express-1AA33C.svg?style=for-the-badge&logo=express&logoColor=black" alt="express"/>
+  <img src="https://img.shields.io/badge/mysql-239BFE.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/sequelize-white.svg?style=for-the-badge&logo=sequelize&logoColor=blue" alt="sequelize"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB"/>
+  <img src="https://img.shields.io/badge/Mongoose-white.svg?style=for-the-badge&color=800" alt="mongoose"/>
 </div>
 
 ##
 
 <h3>Stacks que estou aprendendo:</h3>
 <div>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB"/>
+  <img src="https://img.shields.io/badge/docker-46C7FF.svg?style=for-the-badge&logo=docker&logoColor=white" alt="mongoDB"/>
 </div>
 
 ##
@@ -66,8 +75,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/diogo-santanna/" target="_blank"><img src="linkedin.png" width="40px"/></a>
   <a href="https://www.instagram.com/diiiisantanna/" target="_blank"><img src="instagram.png" width="40px"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5521991488742" target="_blank"><img src="whatsapp.png" width="40px"/></a>
-  <a href="mailto:diogo.santanna@outlook.com.br" target="_blank"><img src="marketing-de-email.png" width="40px"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5521982387725" target="_blank"><img src="whatsapp.png" width="40px"/></a>
+  <a href="mailto:diogosantanna08@gmail.com" target="_blank"><img src="marketing-de-email.png" width="40px"/></a>
 </div>
 
 <p align="center">
