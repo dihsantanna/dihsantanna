@@ -26,8 +26,7 @@
 ##
 
 <div align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=dihsantanna&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihsantanna&layout=compact&langs_count=7&theme=chartreuse-dark" />
+  <img height="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihsantanna&layout=compact&langs_count=7&theme=chartreuse-dark" />
 </div>
 
 ##
