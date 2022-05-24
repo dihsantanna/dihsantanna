@@ -81,7 +81,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/diogo-santanna/" target="_blank"><img src="linkedin.png" width="40px"/></a>
-  <a href="https://www.instagram.com/diiiisantanna/" target="_blank"><img src="instagram.png" width="40px"/></a>
   <a href="https://api.whatsapp.com/send?phone=5521982387725" target="_blank"><img src="whatsapp.png" width="40px"/></a>
   <a href="mailto:diogosantanna08@gmail.com" target="_blank"><img src="marketing-de-email.png" width="40px"/></a>
 </div>
