@@ -9,8 +9,10 @@
 <h3>Quem sou Eu? :sunglasses:</h3>
 
 <ul>
-  <li>:v: Desenvolvedor web front-end;</li>
-  <li>:monocle_face: Finalizando capacitação em back-end;</li>
+  <li>:v: Desenvolvedor web Fullstack;</li>
+  <li>:monocle_face: Finalizando módulo de Ciência da Computação;</li>
+  <li>:wrench: Apaixonado por resolver problemas através da tecnologia</li>
+  <li>:surfer: Gosto de sempre tentar, pois não tenho aversão a riscos</li>
   <li>:video_game: Apaixonado por games;</li>
   <li>:heart_eyes: Apaixonado por Animes;</li>
   <li>:hand_over_mouth: Gosto muito de longas conversas;</li>
