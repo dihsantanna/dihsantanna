@@ -3,14 +3,14 @@
 <p>
   Me chamo <strong><i>Diogo dos Santos Sant'Anna</i></strong>, tenho 31 anos e moro em Nova Iguaçu/RJ.
   <br>
-  Me capacitando pelo que hoje amo fazer, a pouco tempo encerrei minha capacitação como <i>desenvolvedor web full stack</i> na  <a href="https://www.betrybe.com/"><img src="trybe_img.png" align="center" width="45px"/></a> mas continuo estudando para sempre melhorar em minha carreira como <i>DEV</i>.  <i>#vqv</i>
+    <i>Desenvolvedor web full stack</i> formado pela  <a href="https://www.betrybe.com/"><img src="trybe_img.png" align="center" width="45px"/></a>, agora estou em busca de uma oportunidade no mercado de trabalho.  <i>#vqv</i>
 </p>
 
 <h3>Quem sou Eu? :sunglasses:</h3>
 
 <ul>
-  <li>:v: Desenvolvedor web Fullstack;</li>
-  <li>:monocle_face: Nunca parando de estudar;</li>
+  <li>:v: Desenvolvedor web Fullstack Junior;</li>
+  <li>:monocle_face: Estudando sempre, nem que seja autodidata;</li>
   <li>:wrench: Apaixonado por resolver problemas através da tecnologia</li>
   <li>:surfer: Gosto de sempre tentar, pois não tenho aversão a riscos</li>
   <li>:video_game: Apaixonado por games;</li>
