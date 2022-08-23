@@ -25,6 +25,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="jwt"/>
@@ -46,10 +47,14 @@
 
 <h3 align="center">Stacks que estou aprendendo:</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
+  
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vue.js"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/flask-white?style=for-the-badge&logo=flask&logoColor=black" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Playwright-1c1e21?style=for-the-badge&logo=playwright&logoColor=#2EAD33" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/PyMongo-3670A0?style=for-the-badge&color=%234ea94b" alt="PyMongo"/>
+  <img src="https://img.shields.io/badge/Pytest-ffdd54?style=for-the-badge&logo=pytest&logoColor=#0A9EDC" alt="python"/>
 </div>
 
 ##
