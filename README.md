@@ -59,6 +59,13 @@
 
 ##
 
+<div align="center">
+<img alt="Diogo's GitHub stats" src="https://github-readme-stats-dihsantanna.vercel.app/api?username=dihsantanna&theme=chartreuse-dark&show_icons=true&hide=contribs&count_private=true" />
+<img src="https://github-readme-stats-dihsantanna.vercel.app/api/top-langs/?username=dihsantanna&layout=compact&theme=chartreuse-dark" />
+</div>
+
+##
+
 <h3 align="center">Me encontre na Rede <b>@</b></h3>
 
 <div align="center">
