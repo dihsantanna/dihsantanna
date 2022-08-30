@@ -60,8 +60,8 @@
 ##
 
 <div align="center">
-<img width="49%" alt="Diogo's GitHub stats" src="https://github-readme-stats-dihsantanna.vercel.app/api?username=dihsantanna&theme=chartreuse-dark&show_icons=true&hide=contribs&count_private=true" />
-<img width="49%" src="https://github-readme-stats-dihsantanna.vercel.app/api/top-langs/?username=dihsantanna&layout=compact&theme=chartreuse-dark" />
+<img width="320px%" alt="Diogo's GitHub stats" src="https://github-readme-stats-dihsantanna.vercel.app/api?username=dihsantanna&theme=chartreuse-dark&show_icons=true&hide=contribs&count_private=true" />
+<img width="320px%" src="https://github-readme-stats-dihsantanna.vercel.app/api/top-langs/?username=dihsantanna&layout=compact&theme=chartreuse-dark" />
 </div>
 
 ##
