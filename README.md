@@ -26,11 +26,8 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="jwt"/>
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
-  <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="mocha"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   <img src="https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react.js"/>
@@ -40,8 +37,7 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB"/>
-  <img src="https://img.shields.io/badge/Mongoose-white.svg?style=for-the-badge&color=800" alt="mongoose"/>
-</div>
+  </div>
 
 ##
 
@@ -53,7 +49,6 @@
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/flask-white?style=for-the-badge&logo=flask&logoColor=black" alt="Flask"/>
   <img src="https://img.shields.io/badge/Playwright-1c1e21?style=for-the-badge&logo=playwright&logoColor=#2EAD33" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/PyMongo-3670A0?style=for-the-badge&color=%234ea94b" alt="PyMongo"/>
   <img src="https://img.shields.io/badge/Pytest-ffdd54?style=for-the-badge&logo=pytest&logoColor=#0A9EDC" alt="python"/>
 </div>
 
@@ -61,7 +56,7 @@
 
 <div align="center">
 <img width=370 alt="Diogo's GitHub stats" src="https://github-readme-stats-dihsantanna.vercel.app/api?username=dihsantanna&theme=chartreuse-dark&show_icons=true&hide=contribs&count_private=true" />
-<img width=300 src="https://github-readme-stats-dihsantanna.vercel.app/api/top-langs/?username=dihsantanna&layout=compact&theme=chartreuse-dark" />
+<img width=300 src="https://github-readme-stats-dihsantanna.vercel.app/api/top-langs/?username=dihsantanna&layout=compact&langs_count=7&theme=chartreuse-dark" />
 </div>
 
 ##
