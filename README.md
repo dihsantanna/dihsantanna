@@ -1,42 +1,46 @@
-<h1 align="center">Hello Guys! :vulcan_salute:</h1>
+<div align="center">
+  <img
+     src="https://lh3.googleusercontent.com/pw/AL9nZEUZ8I2bXthxg6iw7tBJAAiqbe75iamqmLGisOCH_3y3plc9NLfNwoHm5lpeBLPsJV8uw7kD27jv8WJz_QkjDKUTpZpBx3pHILJF-NJeQ1FQuYrXB7RVXE1cEnT2vt2p-TdtgDUyL1M_j5hGHcCOILI=s126-no?authuser=0"
+     width=65
+  />
+  <h1>Hello World!</h1>
+</div>
 
-<p>
-  Me chamo <strong><i>Diogo dos Santos Sant'Anna</i></strong>, tenho 31 anos e moro em Nova Iguaçu/RJ.
-  <br>
-    <i>Desenvolvedor web full stack</i> formado pela  <a href="https://www.betrybe.com/"><img src="trybe_img.png" align="center" width="45px"/></a>, agora estou em busca de uma oportunidade no mercado de trabalho.  <i>#vqv</i>
-</p>
+- :hatching_chick: Eu sou um Desenvolvedor web Fullstack Junior, comecei em fevereiro de 2021;
+- <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> Eu estudei na Trybe de abril de 2021 a agosto de 2022;
+- :monocle_face: Gosto de estar sempre estudando, e geralmente estudo por conta própria;
+- :eyes: Gosto de encontrar soluções para problemas, por isso encontrei na tecnologia o meu lugar; :satisfied:
+- :surfer: Gosto de sempre tentar, pois os riscos fazem parte da vida;
+- :japan: Apaixonado por Animes;
+- :hand_over_mouth: Gosto muito de longas conversas;
+- 📫 Me mande um email: <a href="mailto:diogosantanna08@gmail.com" target="_blank">diogosantanna08@gmail.com</a>;
+- <img src="https://i.stack.imgur.com/gVE0j.png"/><a href="https://www.linkedin.com/in/diogo-santanna/"> LinkedIn</a>
 
-<h3>Quem sou Eu? :sunglasses:</h3>
+##
 
-<ul>
-  <li>:v: Desenvolvedor web Fullstack Junior;</li>
-  <li>:monocle_face: Estudando sempre, nem que seja autodidata;</li>
-  <li>:wrench: Apaixonado por resolver problemas através da tecnologia</li>
-  <li>:surfer: Gosto de sempre tentar, pois não tenho aversão a riscos</li>
-  <li>:video_game: Apaixonado por games;</li>
-  <li>:heart_eyes: Apaixonado por Animes;</li>
-  <li>:hand_over_mouth: Gosto muito de longas conversas;</li>
-  <li>:metal: Gosto muito de música e meu estilo favorito é o Rock.</li>
-</ul>
+<div align="center">
+<img alt="Diogo's GitHub stats" src="https://github-readme-stats-dihsantanna.vercel.app/api?username=dihsantanna&theme=chartreuse-dark&show_icons=true&hide=contribs&count_private=true" />
+<img src="https://github-readme-stats-dihsantanna.vercel.app/api/top-langs/?username=dihsantanna&layout=compact&langs_count=6&theme=chartreuse-dark" />
+</div>
   
 ##
 
 <h3 align="center">Minhas Stacks:</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  <img src="https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react.js"/>
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB"/>
+  <img src="https://img.shields.io/badge/-JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="javascript" width=118/>
+  <img src="https://img.shields.io/badge/-TypeScript-%23323330.svg?style=plastic&logo=typescript&logoColor=3178C6" alt="typescript" width=118/>
+  <img src="https://img.shields.io/badge/-Python-%23323330?style=plastic&logo=python&logoColor=3776AB" alt="python" width=92/>
+  <img src="https://img.shields.io/badge/-Docker-%23323330.svg?style=plastic&logo=docker&logoColor=white" alt="docker" width=92/>
+  <img src="https://img.shields.io/badge/-Jest-%23323330?style=plastic&logo=jest&logoColor=C21325" alt="jest" width=69/>
+  <img src="https://img.shields.io/badge/-HTML5-%23323330.svg?style=plastic&logo=html5&logoColor=E34F26" alt="html5" width=91/>
+  <img src="https://img.shields.io/badge/-CSS3-%23323330.svg?style=plastic&logo=css3&logoColor=1572B6" alt="css3" width=80/>
+  <img src="https://img.shields.io/badge/-React.js-%23323330.svg?style=plastic&logo=react&logoColor=61DAFB" alt="react.js" width=102/>
+  <img src="https://img.shields.io/badge/-Redux-%23323330.svg?style=plastic&logo=redux&logoColor=764ABC" alt="redux" width=91>
+  <img src="https://img.shields.io/badge/-node.js-%23323330?style=plastic&logo=node.js&logoColor=6DA55F" alt="nodejs" width=101/>
+  <img src="https://img.shields.io/badge/-Express-%23323330.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="express" width=104/>
+  <img src="https://img.shields.io/badge/-MySQL-%23323330.svg?style=plastic&logo=mysql&logoColor=4479A1" alt="MySQL" width=95/>
+  <img src="https://img.shields.io/badge/-Sequelize-%23323330.svg?style=plastic&logo=Sequelize&logoColor=52B0E7" alt="sequelize" width=115/>
+  <img src="https://img.shields.io/badge/-MongoDB-%23323330.svg?style=plastic&logo=mongodb&logoColor=%234ea94b" alt="mongoDB" width=116/>
   </div>
 
 ##
@@ -51,26 +55,5 @@
   <img src="https://img.shields.io/badge/Playwright-1c1e21?style=for-the-badge&logo=playwright&logoColor=#2EAD33" alt="Playwright"/>
   <img src="https://img.shields.io/badge/Pytest-ffdd54?style=for-the-badge&logo=pytest&logoColor=#0A9EDC" alt="python"/>
 </div>
-
-##
-
-<div align="center">
-<img width=370 alt="Diogo's GitHub stats" src="https://github-readme-stats-dihsantanna.vercel.app/api?username=dihsantanna&theme=chartreuse-dark&show_icons=true&hide=contribs&count_private=true" />
-<img width=300 src="https://github-readme-stats-dihsantanna.vercel.app/api/top-langs/?username=dihsantanna&layout=compact&langs_count=7&theme=chartreuse-dark" />
-</div>
-
-##
-
-<h3 align="center">Me encontre na Rede <b>@</b></h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/diogo-santanna/" target="_blank"><img src="linkedin.png" width="40px"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5521982387725" target="_blank"><img src="whatsapp.png" width="40px"/></a>
-  <a href="mailto:diogosantanna08@gmail.com" target="_blank"><img src="marketing-de-email.png" width="40px"/></a>
-</div>
-
-<p align="center">
-  Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a>
-</p>
 
 ##
