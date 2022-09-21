@@ -14,7 +14,8 @@
 - :japan: Apaixonado por Animes;
 - :hand_over_mouth: Gosto muito de longas conversas;
 - 📫 Me mande um email: <a href="mailto:diogosantanna08@gmail.com" target="_blank">diogosantanna08@gmail.com</a>;
-- <img src="https://i.stack.imgur.com/gVE0j.png"/><a href="https://www.linkedin.com/in/diogo-santanna/"> LinkedIn</a>
+- <img src="https://i.stack.imgur.com/gVE0j.png"/><a href="https://www.linkedin.com/in/diogo-santanna/" target="_blank"> LinkedIn</a>
+- :memo: <a href="https://bit.ly/diogo-santanna" target="_blank">Meu Currículo</a>
 
 ##
 
