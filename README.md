@@ -8,7 +8,8 @@
 
 - :hatching_chick: Eu sou um Desenvolvedor web Fullstack Junior, comecei em fevereiro de 2021;
 - <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> Eu estudei na Trybe de abril de 2021 a agosto de 2022;
-- :monocle_face: Gosto de estar sempre estudando, e geralmente estudo por conta própria;
+- :books: Gosto de estar sempre estudando, e geralmente estudo por conta própria;
+- <img src="https://user-images.githubusercontent.com/82241463/191817622-2e0f7f92-1305-4bb9-8e5b-ae594c445595.png" width=20/> Atualmente comecei a estudar inglês por conta própria. <i>"I have now started to study english on my own."</i> :neckbeard:
 - :eyes: Gosto de encontrar soluções para problemas, por isso encontrei na tecnologia o meu lugar;
 - :surfer: Gosto de sempre tentar, pois os riscos fazem parte da vida;
 - :japan: Apaixonado por Animes;
