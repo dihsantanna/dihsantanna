@@ -35,10 +35,13 @@
   <img src="https://img.shields.io/badge/-Python-%23323330?style=plastic&logo=python&logoColor=3776AB" alt="python" width=92/>
   <img src="https://img.shields.io/badge/-Docker-%23323330.svg?style=plastic&logo=docker&logoColor=#0DB7ED" alt="docker" width=92/>
   <img src="https://img.shields.io/badge/-Jest-%23323330?style=plastic&logo=jest&logoColor=C21325" alt="jest" width=69/>
+  <img src="https://img.shields.io/badge/-Flask-%23323330.svg?style=plastic&logo=flask&logoColor=black" alt="Flask" width=78/>
   <img src="https://img.shields.io/badge/-HTML5-%23323330.svg?style=plastic&logo=html5&logoColor=E34F26" alt="html5" width=91/>
   <img src="https://img.shields.io/badge/-CSS3-%23323330.svg?style=plastic&logo=css3&logoColor=1572B6" alt="css3" width=80/>
   <img src="https://img.shields.io/badge/-React.js-%23323330.svg?style=plastic&logo=react&logoColor=61DAFB" alt="react.js" width=102/>
   <img src="https://img.shields.io/badge/-Redux-%23323330.svg?style=plastic&logo=redux&logoColor=764ABC" alt="redux" width=91>
+  <img src="https://img.shields.io/badge/-Vue.js-%23323330.svg?style=plastic&logo=vuedotjs&logoColor=41B883" alt="vue.js" width=85/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-%23323330.svg?style=plastic&logo=tailwind-css&logoColor=%2338B2AC" alt="TailwindCSS" width=126/>
   <img src="https://img.shields.io/badge/-node.js-%23323330?style=plastic&logo=node.js&logoColor=6DA55F" alt="nodejs" width=101/>
   <img src="https://img.shields.io/badge/-Express-%23323330.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="express" width=104/>
   <img src="https://img.shields.io/badge/-MySQL-%23323330.svg?style=plastic&logo=mysql&logoColor=4479A1" alt="MySQL" width=95/>
@@ -50,10 +53,7 @@
 
 <h3 align="center">Stacks Secundárias:</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Vue.js-%23323330.svg?style=plastic&logo=vuedotjs&logoColor=41B883" alt="vue.js" width=85/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-%23323330.svg?style=plastic&logo=tailwind-css&logoColor=%2338B2AC" alt="TailwindCSS" width=126/>
   <img src="https://img.shields.io/badge/-Bootstrap-%23323330.svg?style=plastic&logo=bootstrap&logoColor=%23563D7C" alt="Bootstrap" width=109/>
-  <img src="https://img.shields.io/badge/-Flask-%23323330.svg?style=plastic&logo=flask&logoColor=black" alt="Flask" width=78/>
   <img src="https://img.shields.io/badge/-Playwright-%23323330.svg?style=plastic&logo=playwright&logoColor=%234ea94b" alt="Playwright" width=120/>
   <img src="https://img.shields.io/badge/-Pytest-%23323330.svg?style=plastic&logo=pytest&logoColor=#0A9EDC" alt="pytest" width=90/>
 </div>
