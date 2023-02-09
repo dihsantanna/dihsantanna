@@ -6,8 +6,7 @@
   <h1>Hello World!</h1>
 </div>
 
-- :teacher: Atualmente trabalho como Instrutor de Programação Fullstack no Senac;
-- <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> Eu estudei na Trybe de abril de 2021 a agosto de 2022;
+- :man_teacher: Atualmente trabalho como Instrutor de Programação Fullstack no Senac;
 - :books: Gosto de estar sempre estudando, e geralmente estudo por conta própria;
 - <img src="https://user-images.githubusercontent.com/82241463/191817622-2e0f7f92-1305-4bb9-8e5b-ae594c445595.png" width=20/> Atualmente comecei a estudar inglês por conta própria. <i>"I have now started to study english on my own."</i> :neckbeard:
 - :eyes: Gosto de encontrar soluções para problemas, por isso encontrei na tecnologia o meu lugar;
