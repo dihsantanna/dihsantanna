@@ -6,7 +6,7 @@
   <h1>Hello World!</h1>
 </div>
 
-- :man_teacher: Atualmente trabalho como Instrutor de Programação Fullstack no Senac;
+- :man_teacher: Atualmente trabalho como Instrutor de Programação Fullstack no Senac e Desenvolvedor Fullstack na Proload Tecnologia;
 - :books: Gosto de estar sempre estudando, e geralmente estudo por conta própria;
 - <img src="https://user-images.githubusercontent.com/82241463/191817622-2e0f7f92-1305-4bb9-8e5b-ae594c445595.png" width=20/> Atualmente comecei a estudar inglês por conta própria. <i>"I have now started to study english on my own."</i> :neckbeard:
 - :eyes: Gosto de encontrar soluções para problemas, por isso encontrei na tecnologia o meu lugar;
