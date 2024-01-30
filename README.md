@@ -55,5 +55,5 @@
   <img src="https://img.shields.io/badge/-Vue.js-%23323330.svg?style=plastic&logo=vuedotjs&logoColor=41B883" alt="vue.js" height=24/>
   <img src="https://img.shields.io/badge/-Redux-%23323330.svg?style=plastic&logo=redux&logoColor=764ABC" alt="redux" height=24>
   <img src="https://img.shields.io/badge/-Docker-%23323330.svg?style=plastic&logo=docker&logoColor=#0DB7ED" alt="docker" height=24/>
-  <img src="https://img.shields.io/badge/-Next.js-%23323330.svg?style=plastic&logo=next-js&logoColor=FFFFFF" alt="next.js" height=24/>
+  <img src="https://img.shields.io/badge/-Next.js-%23323330.svg?style=plastic&logo=next.js&logoColor=FFFFFF" alt="next.js" height=24/>
 </div>
