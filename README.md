@@ -29,31 +29,31 @@
 
 <h3 align="center">Minhas Stacks:</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="javascript" width=118/>
-  <img src="https://img.shields.io/badge/-TypeScript-%23323330.svg?style=plastic&logo=typescript&logoColor=3178C6" alt="typescript" width=118/>
-  <img src="https://img.shields.io/badge/-Jest-%23323330?style=plastic&logo=jest&logoColor=C21325" alt="jest" width=69/>
-  <img src="https://img.shields.io/badge/-HTML5-%23323330.svg?style=plastic&logo=html5&logoColor=E34F26" alt="html5" width=91/>
-  <img src="https://img.shields.io/badge/-CSS3-%23323330.svg?style=plastic&logo=css3&logoColor=1572B6" alt="css3" width=80/>
-  <img src="https://img.shields.io/badge/-React.js-%23323330.svg?style=plastic&logo=react&logoColor=61DAFB" alt="react.js" width=102/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-%23323330.svg?style=plastic&logo=tailwind-css&logoColor=%2338B2AC" alt="TailwindCSS" width=132/>
-  <img src="https://img.shields.io/badge/-MaterialUI-%23323330.svg?style=plastic&logo=material-ui&logoColor=3178C6" alt="material-ui" width=98/>
-  <img src="https://img.shields.io/badge/-Node.js-%23323330?style=plastic&logo=node.js&logoColor=6DA55F" alt="nodejs" width=101/>
-  <img src="https://img.shields.io/badge/-Express-%23323330.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="express" width=104/>
-  <img src="https://img.shields.io/badge/-MySQL-%23323330.svg?style=plastic&logo=mysql&logoColor=4479A1" alt="MySQL" width=95/>
-  <img src="https://img.shields.io/badge/-Prisma-%23323330.svg?style=plastic&logo=prisma&logoColor=52B0E7" alt="prisma" width=92/>
-  <img src="https://img.shields.io/badge/-MongoDB-%23323330.svg?style=plastic&logo=mongodb&logoColor=%234ea94b" alt="mongoDB" width=116/>
+  <img src="https://img.shields.io/badge/-JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height=24/>
+  <img src="https://img.shields.io/badge/-TypeScript-%23323330.svg?style=plastic&logo=typescript&logoColor=3178C6" alt="typescript" height=24/>
+  <img src="https://img.shields.io/badge/-Jest-%23323330?style=plastic&logo=jest&logoColor=C21325" alt="jest" height=24/>
+  <img src="https://img.shields.io/badge/-HTML5-%23323330.svg?style=plastic&logo=html5&logoColor=E34F26" alt="html5" height=24/>
+  <img src="https://img.shields.io/badge/-CSS3-%23323330.svg?style=plastic&logo=css3&logoColor=1572B6" alt="css3" height=24/>
+  <img src="https://img.shields.io/badge/-React.js-%23323330.svg?style=plastic&logo=react&logoColor=61DAFB" alt="react.js" height=24/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-%23323330.svg?style=plastic&logo=tailwind-css&logoColor=%2338B2AC" alt="TailwindCSS" height=24/>
+  <img src="https://img.shields.io/badge/-MaterialUI-%23323330.svg?style=plastic&logo=material-ui&logoColor=3178C6" alt="material-ui" height=24/>
+  <img src="https://img.shields.io/badge/-Node.js-%23323330?style=plastic&logo=node.js&logoColor=6DA55F" alt="nodejs" height=24/>
+  <img src="https://img.shields.io/badge/-Express-%23323330.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="express" height=24/>
+  <img src="https://img.shields.io/badge/-MySQL-%23323330.svg?style=plastic&logo=mysql&logoColor=4479A1" alt="MySQL" height=24/>
+  <img src="https://img.shields.io/badge/-Prisma-%23323330.svg?style=plastic&logo=prisma&logoColor=52B0E7" alt="prisma" height=24/>
+  <img src="https://img.shields.io/badge/-MongoDB-%23323330.svg?style=plastic&logo=mongodb&logoColor=%234ea94b" alt="mongoDB" height=24/>
   </div>
 
 ##
 
 <h3 align="center">Stacks Secundárias:</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Bootstrap-%23323330.svg?style=plastic&logo=bootstrap&logoColor=%23563D7C" alt="Bootstrap" width=112/>
-  <img src="https://img.shields.io/badge/-Playwright-%23323330.svg?style=plastic&logo=playwright&logoColor=%234ea94b" alt="Playwright" width=120/>
-  <img src="https://img.shields.io/badge/-php-%23323330?style=plastic&logo=php&logoColor=23563D7C" alt="php" width=72/>
-  <img src="https://img.shields.io/badge/-Laravel-%23323330?style=plastic&logo=laravel&logoColor=C21325" alt="laravel" width=98/>
-  <img src="https://img.shields.io/badge/-Vue.js-%23323330.svg?style=plastic&logo=vuedotjs&logoColor=41B883" alt="vue.js" width=90/>
-  <img src="https://img.shields.io/badge/-Redux-%23323330.svg?style=plastic&logo=redux&logoColor=764ABC" alt="redux" width=91>
-  <img src="https://img.shields.io/badge/-Docker-%23323330.svg?style=plastic&logo=docker&logoColor=#0DB7ED" alt="docker" width=98/>
-  <img src="https://img.shields.io/badge/-Next.js-%23323330.svg?style=plastic&logo=next-js&logoColor=FFFFFF" alt="next.js" width=76/>
+  <img src="https://img.shields.io/badge/-Bootstrap-%23323330.svg?style=plastic&logo=bootstrap&logoColor=%23563D7C" alt="Bootstrap" height=24/>
+  <img src="https://img.shields.io/badge/-Playwright-%23323330.svg?style=plastic&logo=playwright&logoColor=%234ea94b" alt="Playwright" height=24/>
+  <img src="https://img.shields.io/badge/-php-%23323330?style=plastic&logo=php&logoColor=23563D7C" alt="php" height=24/>
+  <img src="https://img.shields.io/badge/-Laravel-%23323330?style=plastic&logo=laravel&logoColor=C21325" alt="laravel" height=24/>
+  <img src="https://img.shields.io/badge/-Vue.js-%23323330.svg?style=plastic&logo=vuedotjs&logoColor=41B883" alt="vue.js" height=24/>
+  <img src="https://img.shields.io/badge/-Redux-%23323330.svg?style=plastic&logo=redux&logoColor=764ABC" alt="redux" height=24>
+  <img src="https://img.shields.io/badge/-Docker-%23323330.svg?style=plastic&logo=docker&logoColor=#0DB7ED" alt="docker" height=24/>
+  <img src="https://img.shields.io/badge/-Next.js-%23323330.svg?style=plastic&logo=next-js&logoColor=FFFFFF" alt="next.js" height=24/>
 </div>
