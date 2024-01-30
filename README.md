@@ -48,11 +48,8 @@
 
 <h3 align="center">Stacks Secundárias:</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-%23323330?style=plastic&logo=python&logoColor=3776AB" alt="python" width=92/>
-  <img src="https://img.shields.io/badge/-Flask-%23323330.svg?style=plastic&logo=flask&logoColor=black" alt="Flask" width=78/>
   <img src="https://img.shields.io/badge/-Bootstrap-%23323330.svg?style=plastic&logo=bootstrap&logoColor=%23563D7C" alt="Bootstrap" width=112/>
   <img src="https://img.shields.io/badge/-Playwright-%23323330.svg?style=plastic&logo=playwright&logoColor=%234ea94b" alt="Playwright" width=120/>
-  <img src="https://img.shields.io/badge/-Pytest-%23323330.svg?style=plastic&logo=pytest&logoColor=#0A9EDC" alt="pytest" width=90/>
   <img src="https://img.shields.io/badge/-php-%23323330?style=plastic&logo=php&logoColor=23563D7C" alt="php" width=72/>
   <img src="https://img.shields.io/badge/-Laravel-%23323330?style=plastic&logo=laravel&logoColor=C21325" alt="laravel" width=98/>
   <img src="https://img.shields.io/badge/-Vue.js-%23323330.svg?style=plastic&logo=vuedotjs&logoColor=41B883" alt="vue.js" width=90/>
