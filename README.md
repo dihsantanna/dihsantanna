@@ -6,7 +6,7 @@
   <h1>Hello World!</h1>
 </div>
 
-- :man_teacher: Atualmente trabalho como Instrutor de Programação Fullstack no Senac e Desenvolvedor Fullstack na Proload Tecnologia;
+- :man_teacher: Atualmente trabalho como Desenvolvedor Fullstack na Proload Tecnologia;
   
 - :books: Gosto de estar sempre estudando, e geralmente estudo por conta própria;
 <!-- - <img src="https://user-images.githubusercontent.com/82241463/191817622-2e0f7f92-1305-4bb9-8e5b-ae594c445595.png" width=20/> Atualmente comecei a estudar inglês por conta própria. <i>"I have now started to study english on my own."</i> :neckbeard: -->
@@ -16,7 +16,7 @@
 - :japan: Apaixonado por Animes;
 - :hand_over_mouth: Gosto muito de longas conversas;
 - 📫 Me mande um email: <a href="mailto:diogosantanna08@gmail.com" target="_blank">diogosantanna08@gmail.com</a>;
-- <img src="https://i.stack.imgur.com/gVE0j.png" height=20 width=20/><a href="https://www.linkedin.com/in/diogo-santanna/" target="_blank"> LinkedIn</a>;
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20 width=20/><a href="https://www.linkedin.com/in/diogo-santanna/" target="_blank"> LinkedIn</a>;
 - :scroll: [Meu Portfólio](https://diogo-santanna.netlify.app/);
 - :memo: <a href="https://bit.ly/diogo-santanna" target="_blank">Meu Currículo</a>.
 
@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/-Express-%23323330.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="express" height=24/>
   <img src="https://img.shields.io/badge/-MySQL-%23323330.svg?style=plastic&logo=mysql&logoColor=4479A1" alt="MySQL" height=24/>
   <img src="https://img.shields.io/badge/-Prisma-%23323330.svg?style=plastic&logo=prisma&logoColor=52B0E7" alt="prisma" height=24/>
-  <img src="https://img.shields.io/badge/-MongoDB-%23323330.svg?style=plastic&logo=mongodb&logoColor=%234ea94b" alt="mongoDB" height=24/>
   </div>
 
 ##
@@ -58,4 +57,5 @@
   <img src="https://img.shields.io/badge/-Redux-%23323330.svg?style=plastic&logo=redux&logoColor=764ABC" alt="redux" height=24>
   <img src="https://img.shields.io/badge/-Docker-%23323330.svg?style=plastic&logo=docker&logoColor=#0DB7ED" alt="docker" height=24/>
   <img src="https://img.shields.io/badge/-Next.js-%23323330.svg?style=plastic&logo=next.js&logoColor=FFFFFF" alt="next.js" height=24/>
+  <img src="https://img.shields.io/badge/-MongoDB-%23323330.svg?style=plastic&logo=mongodb&logoColor=%234ea94b" alt="mongoDB" height=24/>
 </div>
