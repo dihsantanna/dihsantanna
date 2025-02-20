@@ -15,10 +15,34 @@
 - :surfer: Gosto de sempre tentar, pois os riscos fazem parte da vida;
 - :japan: Apaixonado por Animes;
 - :hand_over_mouth: Gosto muito de longas conversas;
-- 📫 Me mande um email: <a href="mailto:diogosantanna08@gmail.com" target="_blank">diogosantanna08@gmail.com</a>;
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20 width=20/><a href="https://www.linkedin.com/in/diogo-santanna/" target="_blank"> LinkedIn</a>;
-- :scroll: [Meu Portfólio](https://diogo-santanna.netlify.app/);
-- :memo: <a href="https://bit.ly/diogo-santanna" target="_blank">Meu Currículo</a>.
+
+<h4>Contatos: </h3>
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:diogosantanna08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-santanna/)
+
+##
+
+<h3 align="center">Minhas Stacks:</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <br/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+</div>
+
+##
+
+<div align="center">>>> :memo: <a href="https://bit.ly/diogo-santanna" target="_blank">Meu Currículo</a> <<<</div>
 
 ##
 
@@ -28,34 +52,3 @@
 </div>
   
 ##
-
-<h3 align="center">Minhas Stacks:</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height=24/>
-  <img src="https://img.shields.io/badge/-TypeScript-%23323330.svg?style=plastic&logo=typescript&logoColor=3178C6" alt="typescript" height=24/>
-  <img src="https://img.shields.io/badge/-Jest-%23323330?style=plastic&logo=jest&logoColor=C21325" alt="jest" height=24/>
-  <img src="https://img.shields.io/badge/-HTML5-%23323330.svg?style=plastic&logo=html5&logoColor=E34F26" alt="html5" height=24/>
-  <img src="https://img.shields.io/badge/-CSS3-%23323330.svg?style=plastic&logo=css3&logoColor=1572B6" alt="css3" height=24/>
-  <img src="https://img.shields.io/badge/-React.js-%23323330.svg?style=plastic&logo=react&logoColor=61DAFB" alt="react.js" height=24/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-%23323330.svg?style=plastic&logo=tailwind-css&logoColor=%2338B2AC" alt="TailwindCSS" height=24/>
-  <img src="https://img.shields.io/badge/-MaterialUI-%23323330.svg?style=plastic&logo=material-ui&logoColor=3178C6" alt="material-ui" height=24/>
-  <img src="https://img.shields.io/badge/-Node.js-%23323330?style=plastic&logo=node.js&logoColor=6DA55F" alt="nodejs" height=24/>
-  <img src="https://img.shields.io/badge/-Express-%23323330.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="express" height=24/>
-  <img src="https://img.shields.io/badge/-MySQL-%23323330.svg?style=plastic&logo=mysql&logoColor=4479A1" alt="MySQL" height=24/>
-  <img src="https://img.shields.io/badge/-Prisma-%23323330.svg?style=plastic&logo=prisma&logoColor=52B0E7" alt="prisma" height=24/>
-  </div>
-
-##
-
-<h3 align="center">Stacks Secundárias:</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Bootstrap-%23323330.svg?style=plastic&logo=bootstrap&logoColor=%23563D7C" alt="Bootstrap" height=24/>
-  <img src="https://img.shields.io/badge/-Playwright-%23323330.svg?style=plastic&logo=playwright&logoColor=%234ea94b" alt="Playwright" height=24/>
-  <img src="https://img.shields.io/badge/-php-%23323330?style=plastic&logo=php&logoColor=23563D7C" alt="php" height=24/>
-  <img src="https://img.shields.io/badge/-Laravel-%23323330?style=plastic&logo=laravel&logoColor=C21325" alt="laravel" height=24/>
-  <img src="https://img.shields.io/badge/-Vue.js-%23323330.svg?style=plastic&logo=vuedotjs&logoColor=41B883" alt="vue.js" height=24/>
-  <img src="https://img.shields.io/badge/-Redux-%23323330.svg?style=plastic&logo=redux&logoColor=764ABC" alt="redux" height=24>
-  <img src="https://img.shields.io/badge/-Docker-%23323330.svg?style=plastic&logo=docker&logoColor=#0DB7ED" alt="docker" height=24/>
-  <img src="https://img.shields.io/badge/-Next.js-%23323330.svg?style=plastic&logo=next.js&logoColor=FFFFFF" alt="next.js" height=24/>
-  <img src="https://img.shields.io/badge/-MongoDB-%23323330.svg?style=plastic&logo=mongodb&logoColor=%234ea94b" alt="mongoDB" height=24/>
-</div>
